@@ -9,7 +9,7 @@ My CV in [PDF](https://github.com/sum246/My-Data-Analyst-Portfolio/blob/main/Res
 
 ## Table of Contents ##
 - [About](https://github.com/sum246/Sleep-and-Health/edit/main/README.md#about)
-- [My Portfolio Projects]( )
+- [My Portfolio Projects](https://github.com/sum246/My-Portfolio-Projects/tree/main )
 
 
 
