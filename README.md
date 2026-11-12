@@ -21,7 +21,7 @@ My CV in [PDF](https://github.com/sum246/My-Data-Analyst-Portfolio/blob/main/Res
 ## Education 
 ### Masters in Mathematics, Mahatma Gandhi University, India
 ## Certification
-[Codecademy Professional Certification, Apr 2026]()
+[Codecademy Professional Certification, Apr 2026](https://www.codecademy.com/profiles/SumayyaKhadar/certificates/7dec503730a448c8b22bb251ada403f3)
 
 
 
