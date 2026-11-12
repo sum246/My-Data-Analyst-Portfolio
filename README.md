@@ -14,7 +14,7 @@ My CV in [PDF](https://github.com/sum246/My-Data-Analyst-Portfolio/blob/main/Res
 
 ## My Portfolio Projects 
 ### Medical Insurance Costs
-**Code: 
+**Code:**[myportfolio-insurance-costs.ipynb](https://github.com/sum246/My-Portfolio-Projects/blob/main/myportfolio-insurance-costs.ipynb)
 
 
 
