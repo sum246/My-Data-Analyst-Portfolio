@@ -23,11 +23,8 @@ My CV in [PDF](https://github.com/sum246/My-Data-Analyst-Portfolio/blob/main/Res
 ## Certification
 [Codecademy Professional Certification, Apr 2026](https://www.codecademy.com/profiles/SumayyaKhadar/certificates/7dec503730a448c8b22bb251ada403f3)
 
+## Contacts
+### Linkedin:(www.linkedin.com/in/sumayya-khadar)
+### email: sumayya.abdulkhadar@gmail.com
 
 
-
-# How is sleep related to health? 
-## Description 
-This project examines how different lifestyle factors like physical activity level, daily steps, BMI category, stress level affect the attributes like heart rate, blood pressure, sleep quality 
-,sleep disorder, duration of sleep etc
-Python fundamentals are used in this project. Pandas, Seaborn, Matplotlib.Pyplot etc are used for visualization.
