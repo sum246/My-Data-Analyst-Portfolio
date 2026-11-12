@@ -4,7 +4,7 @@
 ## About ##
 Hi I am Sumayya! I am a critical thinker and problem-solver with a masters in mathematics now transitioning into Data Analytics backed by a Codeacademy professional certification in Data Analytics. Applied the recently gained skills in SQL, Python, pandas, data cleaning, hypothesis testing, statistics, data visualization, Tableau, and Excel to do hands on projects analyzing real world data. Looking for opportunities to analyze data to arrive at meaningful data driven decisions in a professional setting.
 
-My CV in 
+My CV in [PDF](
 This is a repository to showcase my skills and projects. 
 
 ## Table of Contents ##
