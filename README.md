@@ -16,7 +16,12 @@ My CV in [PDF](https://github.com/sum246/My-Data-Analyst-Portfolio/blob/main/Res
 ### Medical Insurance Costs
 **Code:** [myportfolio-insurance-costs.ipynb](https://github.com/sum246/My-Portfolio-Projects/blob/main/myportfolio-insurance-costs.ipynb)
 ### Sleep, Health and Lifestyle
-**Code:** []()
+**Code:** [sleep_health.ipynb](https://github.com/sum246/My-Portfolio-Projects/blob/main/sleep_health.ipynb)
+
+## Education 
+### Masters in Mathematics, Mahatma Gandhi University, India
+## Certification
+[Codecademy Professional Certification, Apr 2026]()
 
 
 
